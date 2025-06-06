@@ -27,6 +27,17 @@
 
 ---
 
+## Database Operations
+
+The system supports core SQL operations across key tables:
+
+- **Class:** Create, update, delete, and query fitness class schedules.
+- **Person:** Manage personal records for members and employees.
+- **Enrollment:** Track class sign-ups and attendance.
+- **Membership:** Handle membership status, registration, and removal.
+- **Employee:** Store and update employee roles and availability.
+
+
 By structuring the data efficiently, the system supports streamlined operations, improves data accuracy, and enhances administrative decision-making.
 
 This project demonstrates our understanding of core database design concepts such as **normalization**, **entity-relationship modeling**, and **SQL query development**.
