@@ -2,7 +2,7 @@
 
 Contributors: Rohan Sharma, Malcolm Todd (https://github.com/Rubixue), Raheem Mir (https://github.com/raheemmir).
 
-# Project Overview
+Project Overview: 
 **GYM-DATABASE** is a relational database system designed to support the operations of a newly established gym. The system is intended for use by an individual or organization launching a fitness center and requires robust tools for managing key aspects of day-to-day business activities.
 
 The database provides functionality to:
